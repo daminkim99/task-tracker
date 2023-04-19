@@ -5,7 +5,7 @@
       "text": "test",
       "other": "no-show",
       "day": "monday",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Test4",
